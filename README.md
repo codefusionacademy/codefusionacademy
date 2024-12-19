@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/aks1533" target="blank"><img src="https://img.shields.io/twitter/follow/aks1533?logo=twitter&style=for-the-badge" alt="aks1533" /></a> </p>
 
 - 🔭 I’m currently working on [You-Tube](https://www.youtube.com/@codefusionacademy)
-
+- 🌐 Website (https://adityakumarsingh153.github.io/aditya.website/)
 - 💬 Ask me about **Full Stack Web Development**
 - 🌱 I’m currently learning **B-Tech Pre-Final Year Student from Information Technology**
 - 📫 How to reach me **codefusionacademy.01@gmail.com**
