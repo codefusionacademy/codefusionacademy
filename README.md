@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [You-Tube](https://www.youtube.com/@codefusionacademy)
 
 - 💬 Ask me about **Full Stack Web Development**
-
+- 🌱 I’m currently learning **B-Tech Pre-Final Year Student from Information Technology**
 - 📫 How to reach me **codefusionacademy.01@gmail.com**
 
 - ⚡ Fun fact **The first hard drive, invented by IBM in 1956, was the size of two refrigerators and stored only 5 MB of data — about the size of a single high-quality photo today! 📸**
