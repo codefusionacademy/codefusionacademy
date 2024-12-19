@@ -1,4 +1,4 @@
-![MasterHead](https://clarusway.com/wp-content/uploads/2023/07/Top-Full-Stack-Developer-Skills.jpg)
+![MasterHead](https://res.cloudinary.com/jerrick/image/upload/v1722245178/66a76039f93c2f001cfef67b.jpg)
 <h1 align="center">Hi 👋, I'm ADITYA KUMAR SINGH</h1>
 <h3 align="center">A passionate full stack wed development from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2N4ZnZldzEzazZhcHVzM2RrdWR3NHEwNnp6eXl4Y2l2cnFicjU0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.webp">
